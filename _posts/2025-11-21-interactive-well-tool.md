@@ -1,7 +1,7 @@
 ---
 title: 'Interactive Well Selection Tool'
 date: 2025-11-21
-Categories: [Education, Python]
+Categories: [Education, Python, Petroleum]
 tags:
   - Python
 ---
