@@ -1,7 +1,19 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Short-Term Academic Exchange Program at Peking University"
+excerpt: "Short-term academic exchange program at Peking University, China (June–July 2025)."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### Short-Term Academic Exchange Program  
+**Peking University, Beijing, China**  
+*June 22 – July 7, 2025*
+
+Participated in a short-term academic exchange and geological fieldwork program at Peking University, China.
+
+<img src="/images/PKU1.jpg" width="700">
+
+<img src="/images/PKU2.jpg" width="700">
+
+<img src="/images/PKU3.jpg" width="700">
+
+
